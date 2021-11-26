@@ -1,5 +1,5 @@
-### Hi there 👋
-I am Asif Shaikh, a sophomore year student at IIT Bombay.
+# Hi there 👋
+I am Asif Shaikh, a sophomore at IIT Bombay.
 <!--
 **ASi-F/ASi-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
