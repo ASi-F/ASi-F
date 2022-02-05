@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Asif Shaikh, a sophomore at IIT Bombay.
+I am Asif Shaikh, a second year student in the Electrical Engineering Department at IIT Bombay.
 
 # Some Stats
 [![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASi-F&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
